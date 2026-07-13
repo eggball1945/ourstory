@@ -161,7 +161,7 @@ export const WeddingInvitation: React.FC = () => {
               </div>
               
               <h3 className="font-serif text-2xl font-bold text-[#B83E55] mt-2 mb-2">Hari-Hari yang Telah Dilalui</h3>
-              <p className="text-xs text-[#2C2C2C]/50 mb-6">Mulai berkomitmen sejak 14 September 2025</p>
+              <p className="text-xs text-[#2C2C2C]/50 mb-6">Mulai berkomitmen sejak 14 Agustus 2025</p>
               
               <div className="inline-flex items-center justify-center bg-[#FFF5F6] rounded-2xl px-8 py-5 border border-[#C5A880]/20 shadow-inner mb-2">
                 <span className="text-5xl md:text-6xl font-bold text-[#B83E55] tracking-wider">{daysTogether}</span>
@@ -238,10 +238,10 @@ export const WeddingInvitation: React.FC = () => {
                 </div>
                 <div className="w-full md:w-5/12 text-center md:text-left">
                   <ScrollAnimate animation="fade-left">
-                    <span className="text-xs uppercase tracking-[0.2em] font-bold text-[#D4AF37]">14 September 2025</span>
+                    <span className="text-xs uppercase tracking-[0.2em] font-bold text-[#D4AF37]">14 Agustus 2025</span>
                     <h3 className="font-serif text-xl font-bold mt-1 text-[#B83E55]">Hari Jadian &amp; Komitmen</h3>
                     <p className="mt-3 text-sm text-[#2C2C2C]/80 leading-relaxed">
-                      Banyak masalah bahkan di hari jadian kita tanggal 14 September, tapi kita lalui semuanya bersama.
+                      Banyak masalah bahkan di hari jadian kita tanggal 14 Agustus, tapi kita lalui semuanya bersama.
                     </p>
                   </ScrollAnimate>
                 </div>
